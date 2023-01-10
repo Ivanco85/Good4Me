@@ -168,3 +168,13 @@ ul {
     text-align: center;
     color: #828181;
 }
+
+.center {
+    background: #FFF8F6;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.center-img {
+    background: #F6623E;
+}
